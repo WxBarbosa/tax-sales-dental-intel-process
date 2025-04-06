@@ -35,7 +35,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 1. Navegue até o diretório do frontend:
    ```bash
-   cd CalculatorTaxDentalIntel.Web
+   cd sales-tax-calculator
    ```
 
 2. Instale as dependências do projeto:
@@ -45,36 +45,10 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 
 3. Execute o frontend:
    ```bash
-   npm start
+   npm run start
    ```
 
 4. O frontend estará disponível em `http://localhost:3000` por padrão.
-
-## Como executar os testes
-
-### Backend
-
-1. Navegue até o diretório do backend:
-   ```bash
-   cd CalculatorTaxDentalIntel.Api
-   ```
-
-2. Execute os testes:
-   ```bash
-   dotnet test
-   ```
-
-### Frontend
-
-1. Navegue até o diretório do frontend:
-   ```bash
-   cd CalculatorTaxDentalIntel.Web
-   ```
-
-2. Execute os testes:
-   ```bash
-   npm test
-   ```
 
 ## Estrutura do Projeto
 
