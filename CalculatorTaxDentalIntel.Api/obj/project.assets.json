@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\CalculatorTaxDentalIntel\\CalculatorTaxDentalIntel.Api\\CalculatorTaxDentalIntel.Api.csproj",
+      "projectUniqueName": "C:\\projects\\tax-sales-dental-intel-process\\CalculatorTaxDentalIntel.Api\\CalculatorTaxDentalIntel.Api.csproj",
       "projectName": "CalculatorTaxDentalIntel.Api",
-      "projectPath": "C:\\projects\\CalculatorTaxDentalIntel\\CalculatorTaxDentalIntel.Api\\CalculatorTaxDentalIntel.Api.csproj",
+      "projectPath": "C:\\projects\\tax-sales-dental-intel-process\\CalculatorTaxDentalIntel.Api\\CalculatorTaxDentalIntel.Api.csproj",
       "packagesPath": "C:\\Users\\wilfo\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\CalculatorTaxDentalIntel\\CalculatorTaxDentalIntel.Api\\obj\\",
+      "outputPath": "C:\\projects\\tax-sales-dental-intel-process\\CalculatorTaxDentalIntel.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wilfo\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculatorTaxDentalIntel.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3f36fdcba1119df552be28b6fa1f10301db8193")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculatorTaxDentalIntel.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculatorTaxDentalIntel.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
