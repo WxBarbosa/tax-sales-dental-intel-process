@@ -1,0 +1,6 @@
+@CalculatorTaxDentalIntel.Api_HostAddress = http://localhost:5224
+
+GET {{CalculatorTaxDentalIntel.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

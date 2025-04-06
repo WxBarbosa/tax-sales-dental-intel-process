@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3lpI6RvpK+0=",
+  "success": true,
+  "projectFilePath": "C:\\projects\\CalculatorTaxDentalIntel\\CalculatorTaxDentalIntel.Api\\CalculatorTaxDentalIntel.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wilfo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\wilfo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
